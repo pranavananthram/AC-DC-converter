@@ -56,15 +56,11 @@ The timer's frequency and duty cycle were initially calculated using:
 
 Frequency:
 
-\[
-f = \frac{1.44}{(R_1+2R_2)C}
-\]
+f = 1.44 / ((R1 + 2R2) × C)
 
 Duty cycle:
 
-\[
-D = \frac{R_1+R_2}{R_1+2R_2}
-\]
+D = (R1 + R2) / (R1 + 2R2) × 100%
 
 The initial Multisim configuration used:
 - R1 = 3 kΩ
