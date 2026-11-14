@@ -1,7 +1,5 @@
 # Adjustable AC-DC Converter
 
-**EE 331 Final Project | Circuit Design, Simulation & Hardware Implementation**
-
 ## Overview
 
 This project involved the design, simulation, and physical implementation of an adjustable AC-DC converter capable of converting a ±7.5 VAC input into a regulated DC output adjustable between approximately 10 V and 20 V.
